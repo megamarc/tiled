@@ -449,6 +449,11 @@ TERRA Engine (Delphi/Pascal)
 
 -  `TERRA Engine <http://pascalgameengine.com/>`__ supports loading and
    rendering of TMX maps.
+   
+Tilengine
+~~~~~~~~~
+
+- `Tilengine <http://www.tilengine.org/>`__ is a 2D graphics engine aimed towards 8/16-bit style graphics. It natively loads TMX tilemaps and TSX tilesets, including object layers and tile-based animations.
 
 Unity
 ~~~~~
